@@ -25,6 +25,12 @@ body h1 {
   width: 250px;
 }
 
-.weather_display {
+.weather_block {
   margin-top: 2.5em;
+}
+
+#city {
+  text-align: center;
+  font-size: 2.5em;
+  text-decoration: underline;
 }
