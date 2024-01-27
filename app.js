@@ -15,6 +15,7 @@ map_address.addEventListener('input', function(){
 
 const GEO_API_URL = `http://api.openweathermap.org/geo/1.0/direct?q=${map_address_value}&limit=5&appid=${API_KEY}`;
 
+
     
 
 
